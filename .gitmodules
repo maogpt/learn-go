@@ -1,3 +1,0 @@
-[submodule "tutorial/tutorial/workspace/example"]
-	path = tutorial/tutorial/workspace/example
-	url = https://go.googlesource.com/example
